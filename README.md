@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="1199" height="800" alt="grass" src="https://github.com/user-attachments/assets/02f44881-804d-4fb8-a7dc-5a707f535e85" />
+
 
 <!--
 **tyurlir/tyurlir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
