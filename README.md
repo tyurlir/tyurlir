@@ -1,4 +1,5 @@
-<img width="1199" height="800" alt="grass" src="https://github.com/user-attachments/assets/02f44881-804d-4fb8-a7dc-5a707f535e85" />
+<img width="1187" height="604" alt="grass" src="https://github.com/user-attachments/assets/43c020c1-02e2-41f9-8ec5-d6f1be73a9a7" />
+
 
 
 <!--
